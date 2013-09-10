@@ -727,10 +727,10 @@ body.modal-open,.modal-open .navbar-fixed-top,.modal-open .navbar-fixed-bottom{m
 .alerts-slide,.reminders-slide,.track-slide,.wheeze-slide{display:inline-block;color:#fff;height:120px;width:160px;margin-left:20px;margin-right:20px;}.alerts-slide img,.reminders-slide img,.track-slide img,.wheeze-slide img{height:50px;width:50px;}
 .appfeatures{padding:40px 0;}.appfeatures h4{color:#006626;font-size:18px;font-weight:600;}
 .appfeatures p{font-size:12px;}
+.appfeatures .feat-item-wrap{background:rgba(0, 0, 0, 0.3);position:static;width:100%;height:100%;margin-bottom:10px;padding:10px;}.appfeatures .feat-item-wrap h3{color:#ffffff;}
 .appfeatures .feat-item{margin-bottom:20px;}
 .appfeatures .right{text-align:right;}
 .slide-icons img{height:92px;width:92px;}
-.carousel-indicators li{margin-left:5px;margin-right:5px;}
 .input-sml{width:250px;}
 .yt-player{height:360px;display:inline-block;border:none;}
 .yt-channel-list{height:360px;width:48%;overflow-x:scroll;}.yt-channel-list .yt-channel-list-inner{width:1500px;}
@@ -751,4 +751,4 @@ body.modal-open,.modal-open .navbar-fixed-top,.modal-open .navbar-fixed-bottom{m
 .copyright{margin-top:15px;}
 .img-padding{padding:10px;}
 .contact h4{margin-top:20px;}
-@media (min-width:768px){.head{margin-top:0;} .item .left{text-align:left;background:rgba(0, 0, 0, 0.5);padding:20px;bottom:10%;left:15%;right:0;width:40%;} .circles .col-sm-4{border-bottom:none;} .cloudhead .copy{margin-top:12%;}.cloudhead .copy h1{text-align:left;font-size:40px;} .social-icons h1{text-align:left;} .social-icons .links{margin-left:0;margin-right:0;text-align:left;}.social-icons .links a{margin-left:5px;margin-right:5px;}}@media (min-width:992px){.fits{padding:40px 0;background:url(../img/objects-cloud.jpg) no-repeat center bottom;background-size:cover;width:100%;min-height:850px;color:#ffffff;}.fits ul{list-style:none;} .fits h1{margin-bottom:4px;} .fits .row{margin-bottom:20px;} .fits .fits-inner{background:none;height:100%;width:100%;margin:0;padding-top:0;padding-bottom:0;} .fits h4{font-size:17px;} .fits h5{font-size:15px;}}@media (min-width:1200px){.fits .fits-inner{background:none;padding-top:0;padding-bottom:0;}}
+@media (min-width:768px){.head{margin-top:0;} .item .left{text-align:left;background:rgba(0, 0, 0, 0.5);padding:20px;bottom:10%;left:15%;right:0;width:40%;} .circles .col-sm-4{border-bottom:none;} .cloudhead .copy{margin-top:12%;}.cloudhead .copy h1{text-align:left;font-size:40px;} .social-icons h1{text-align:left;} .social-icons .links{margin-left:0;margin-right:0;text-align:left;}.social-icons .links a{margin-left:5px;margin-right:5px;}}@media (min-width:992px){.fits{padding:40px 0;background:url(../img/objects-cloud.jpg) no-repeat center bottom;background-size:cover;width:100%;min-height:850px;color:#ffffff;}.fits ul{list-style:none;} .fits h1{margin-bottom:4px;} .fits .row{margin-bottom:20px;} .fits .fits-inner{background:none;height:100%;width:100%;margin:0;padding-top:0;padding-bottom:0;} .fits h4{font-size:17px;} .fits h5{font-size:15px;}}@media (min-width:1200px){.fits{min-height:1050px;}.fits .fits-inner{background:none;padding-top:0;padding-bottom:0;}}
