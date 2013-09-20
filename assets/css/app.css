@@ -727,7 +727,7 @@ body.modal-open,.modal-open .navbar-fixed-top,.modal-open .navbar-fixed-bottom{m
 .carousel-control.right{background:none;}
 .item img{width:100%;height:auto;display:block;text-align:center;margin-left:auto;margin-right:auto;}
 .item .appstore{width:95px;height:auto;display:inline;margin:5px;}
-.item{min-width:420px;}.item .left{text-align:left;background:rgba(0, 0, 0, 0.5);padding:20px;bottom:0;left:0;right:0;width:90%;}
+.item{min-width:420px;}.item .left{text-align:left;background:rgba(0, 0, 0, 0.5);padding:20px;bottom:0;left:0;right:0;width:90%;}.item .left h2 a{color:#ffffff;}.item .left h2 a:hover{color:#ffffff;}
 .asthmasense-indicators{position:absolute;left:0;z-index:15;margin-left:0;padding-left:0;list-style:none;top:30px;width:100%;text-align:center;}
 .alerts-slide,.reminders-slide,.track-slide,.wheeze-slide{display:inline-block;color:#fff;height:120px;width:160px;margin-left:20px;margin-right:20px;}.alerts-slide img,.reminders-slide img,.track-slide img,.wheeze-slide img{height:50px;width:50px;}
 .appfeatures{padding:40px 0;}.appfeatures h4{color:#006626;font-size:18px;font-weight:600;}
