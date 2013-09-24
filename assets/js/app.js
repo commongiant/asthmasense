@@ -112,7 +112,7 @@ var menuLeft = document.getElementById( 'cbp-spmenu' ),
     $(document).ready(function () {
       var playerDiv = $("#ytChanPlayer");
       playerDiv.ytChanPlayer({
-        username: 'SoundAsthma',
+        username: 'soundasthma',
         maxResults: 12,
         sticky: 'bZGLCBFSNck'
       }); 
